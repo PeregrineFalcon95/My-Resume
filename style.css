@@ -113,7 +113,8 @@ body {
   }
   
   .resume .resume_left .regular {
-    color: #b1eaff;
+    /* color: #b1eaff; */
+    color: #fff;
   }
   
   .resume .resume_item {
@@ -156,17 +157,20 @@ body {
   }
   
   .resume .resume_left ul li .data {
-    color: #b1eaff;
+    /*color: #b1eaff;*/
+    color: #fff;
   }
   .data a
   {
-    color: #b1eaff;
-      text-decoration: none;
+    /* color: #b1eaff; */
+    color: #fff;
+    text-decoration: none;
   }
   .resume .resume_left .resume_skills ul li {
     display: flex;
     margin-bottom: 10px;
-    color: #b1eaff;
+    /*color: #b1eaff;*/
+    color: #fff;
     justify-content: space-between;
     align-items: center;
   }
